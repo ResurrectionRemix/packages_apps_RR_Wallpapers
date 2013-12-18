@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, Wallpaper!</string>
-    <string name="app_name">ResurrectionWalls</string>
-    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="hello">Wallpaper</string>
+    <string name="app_name"><i><b>Resurrection Walls</b></i></string>
+    <string name="set_wallpaper"><i><b>Set wallpaper</b></i></string>
 
 </resources>
