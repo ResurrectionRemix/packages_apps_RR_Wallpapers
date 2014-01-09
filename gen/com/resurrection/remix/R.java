@@ -78,6 +78,7 @@ public final class R {
         public static final int wallpaper_8_small=0x7f02003c;
         public static final int wallpaper_9=0x7f02003d;
         public static final int wallpaper_9_small=0x7f02003e;
+        public static final int web_hi_res_512=0x7f02003f;
     }
     public static final class id {
         public static final int gallery=0x7f060001;
