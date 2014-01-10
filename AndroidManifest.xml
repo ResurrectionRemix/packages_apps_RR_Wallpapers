@@ -10,7 +10,7 @@
 
     <application
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name" android:theme="@android:style/Theme.Holo.Light" android:persistent="false" android:permission="android.permission.SET_WALLPAPER" android:allowTaskReparenting="true">
+        android:label="@string/app_name" android:theme="@android:style/Theme.Holo.Light" android:persistent="false" android:permission="android.permission.SET_WALLPAPER" android:allowTaskReparenting="false">
         <activity
             android:name="Wallpaper"
             android:label="@string/app_name" android:launchMode="singleTop" android:configChanges="uiMode">
