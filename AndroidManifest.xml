@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.resurrection.remix"
-    android:versionCode="5"
-    android:versionName="5.0" >
+    android:versionCode="7"
+    android:versionName="7.0" >
 
     <uses-sdk android:minSdkVersion="15" />
     
@@ -10,7 +10,7 @@
 
     <application
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name" android:theme="@android:style/Theme.Holo.Dialog.NoActionBar" android:persistent="false" android:permission="android.permission.SET_WALLPAPER" android:allowTaskReparenting="false">
+        android:label="@string/app_name" android:theme="@android:style/Theme.Holo.Light" android:persistent="false" android:permission="android.permission.SET_WALLPAPER" android:allowTaskReparenting="false">
         <activity
             android:name="Wallpaper"
             android:label="@string/app_name" android:launchMode="singleTop" android:configChanges="uiMode">
